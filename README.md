@@ -10,3 +10,8 @@
 
 * 登入手冊 - https://sforce.co/34o4lW0
 
+## 活動資料
+
+* 活動網址 - https://jam.awsevents.com/
+
+* 活動簡報 
