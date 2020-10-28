@@ -16,4 +16,8 @@
 
 * 活動網址 - https://jam.awsevents.com/
 
-* 活動簡報 
+* Secret Key：CLDf7Z
+
+* 活動簡報 - https://github.com/ycwang812/AWS-Security-JAM-2020/blob/main/JAMコンソール操作説明資料.pdf
+
+* 活動畫面
