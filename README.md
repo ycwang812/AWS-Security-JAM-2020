@@ -21,3 +21,5 @@
 * 活動簡報 - https://github.com/ycwang812/AWS-Security-JAM-2020/blob/main/JAMコンソール操作説明資料.pdf
 
 * 活動畫面
+
+![](https://github.com/ycwang812/AWS-Security-JAM-2020/blob/main/screen/2020-10-28_1.png)
